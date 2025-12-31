@@ -1,0 +1,7 @@
+{
+  "name": " TruthGuard",
+  "description": "A comprehensive AI-powered dashboard to detect fake news, job scams, phishing attempts, financial fraud, and medical misinformation using advanced NLP and pattern recognition.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
