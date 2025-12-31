@@ -79,6 +79,3 @@ This project is configured to be deployed on Firebase Hosting. Follow these step
 
 The application requires the following environment variables:
 
-```env
-API_KEY=AIzaSy...  # Your Google GenAI API Key
-```
