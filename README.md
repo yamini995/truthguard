@@ -75,8 +75,5 @@ This project is configured to be deployed on Firebase Hosting. Follow these step
 *   **Multimodal Input**: Supports text, image, and video uploads for **all detectors**.
 *   **Responsive Design**: Mobile-optimized with bottom navigation.
 
-## .env Structure
-GEMINI_API_KEY=PLACEHOLDER_API_KEY
 
-The application requires the following environment variables:
 
